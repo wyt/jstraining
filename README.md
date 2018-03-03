@@ -34,6 +34,8 @@
 1. React 的基本用法
 2. React 应用的架构
 
+TODO 准备改成vue技术栈
+
 ## 第三讲：[Node 应用开发](./docs/node.md)
 
 1. Node 的基本用法
